@@ -1,16 +1,53 @@
-### Hi there 👋
+"FrontEndDeveloper" : {
 
-<!--
-**felipelamela/felipelamela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    "TECNOLOGIAS": {
 
-Here are some ideas to get you started:
+        "HTML5": "True",
+        "CSS3": "True,
+        "Javascript" : "True",
+        "Typescript": "toString(30%)",
+        "React": "toString(30%)",
+        "Angular": "toString(20%)"
+        "Vue": "Undefined",
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    },
+
+    "FORMAÇÕES":{
+
+        "OracleOne" : {
+             "Formação": "Front-End Developer",
+             "Status" : "Complete"
+         },
+
+       "Origamid": {
+             "Formação" :  "Front-End Developer, UX/UI Desing",
+             "Status" : "In Process"
+       },
+
+        "FaculdadeDescomplica":{
+              "Formação": "Ciência da computação",
+              "Status" : "In Process"
+        },
+
+        "CursosUdemy":{
+              "Formações": ["Python","Javascript"],
+              "Status" : "Complete"
+          }
+
+    },
+
+    "GITHUB" : {
+        "href": "https://github.com/felipelamela"
+    },
+
+    "PESSOAL":{
+         "Casado": "True",
+         "Filhos" : "1",
+         "Pets" : "Muitos",
+         "TDAH" : "True",
+         "Cafe": "Sim, quero!",
+         "Hobbie" : "Jogar",
+         "Meta" : "Morar no canada",
+         "Defeito": "Não calo a boca",
+         "Qualidade": " Extremamente determinado"
+}
