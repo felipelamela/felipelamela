@@ -6,6 +6,7 @@
         "CSS3": "True,
         "Javascript" : "True",
         "Typescript": "toString(30%)",
+        "Python" : "True"
         "React": "toString(30%)",
         "Angular": "toString(20%)"
         "Vue": "Undefined",
