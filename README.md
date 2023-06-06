@@ -7,7 +7,7 @@
         "Javascript" : "True",
         "Typescript": "toString(30%)",
         "Python" : "True"
-        "React": "toString(30%)",
+        "React": "toString(65%)",
         "Angular": "toString(20%)"
         "Vue": "Undefined",
 
@@ -26,7 +26,7 @@
        },
 
         "FaculdadeDescomplica":{
-              "Formação": "Ciência da computação",
+              "Formação": "Engenharia da Computação",
               "Status" : "In Process"
         },
 
@@ -35,10 +35,6 @@
               "Status" : "Complete"
           }
 
-    },
-
-    "GITHUB" : {
-        "href": "https://github.com/felipelamela"
     },
 
     "PESSOAL":{
