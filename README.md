@@ -1,17 +1,69 @@
 # Hello There 🤙
-Sou estudante de Engenharia da Computação com experiência em
-desenvolvimento Front-end e Back-end. Possuo formação em cursos e
-bootcamps, como Alura, Origamid, Oracle, DIO e sempre busco conhecimento
-para me manter atualizado. No Front-end, tenho experiência com JavaScript,
-TypeScript, Next.js, React, Redux, React-Router-Dom e React-Native, no Back-end,
-utilizo Node.js, ExpressJs, NestJs, MongoBD e Postgresql para desenvolver
-aplicações robustas e escaláveis, bem como na utilização do TypeORM para
-facilitar o acesso aos dados. Tenho facilidade em aprendizado e minha
-capacidade de me adaptar rapidamente a novas tecnologias e ferramentas.
-Tenho uma comunicação clara e objetiva, o que facilita a colaboração em
-equipe. Além disso, sou curioso e tenho um forte foco tanto em projetos
-legados, onde posso aprimorar e otimizar sistemas existentes, quanto em novos
-projetos, onde posso desenvolver soluções inovadoras.
+```
+html
+<div id="typing-animation"></div>
+<style>
+  /* Estilize o contêiner da animação de digitação */
+  #typing-animation {
+    font-family: monospace;
+    white-space: pre;
+    overflow: hidden;
+    border-right: .15em solid orange;
+    margin: 0 auto;
+    letter-spacing: .15em;
+    animation:
+      typing 3.5s steps(40, end),
+      blink-caret .75s step-end infinite;
+  }
+
+  /* Animação de digitação */
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  /* Animação do cursor piscando */
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange }
+  }
+</style>
+<script>
+  // Texto que será animado
+  var text = "Digite seu texto aqui";
+
+  // Função para animar o texto letra por letra
+  function typeWriter(text, i, fnCallback) {
+    // Verifica se o texto terminou de ser exibido
+    if (i < (text.length)) {
+      // Adiciona a próxima letra ao elemento HTML
+      document.getElementById("typing-animation").innerHTML = text.substring(0, i + 1) + '<span aria-hidden="true"></span>';
+
+      // Aguarda um intervalo antes de chamar a próxima letra
+      setTimeout(function () {
+        typeWriter(text, i + 1, fnCallback)
+      }, 100);
+    }
+    // Verifica se o texto terminou de ser exibido e chama uma função de retorno, se fornecida
+    else if (typeof fnCallback == "function") {
+      setTimeout(fnCallback, 700);
+    }
+  }
+
+  // Inicia a animação
+  function StartAnimation() {
+    if (typeof text === "string") {
+      typeWriter(text, 0, function () {
+        // Função de callback (opcional) para realizar ações após a animação ser concluída
+      });
+    }
+  }
+
+  // Inicia a animação automaticamente quando a página carrega
+  document.addEventListener('DOMContentLoaded', StartAnimation);
+</script>
+```
+
 <br>
 <br>
 
