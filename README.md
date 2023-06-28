@@ -53,7 +53,7 @@ projetos, onde posso desenvolver soluções inovadoras.
 <br>
 <br>
 
-## Formações 🏫
+# Formações 🏫
 
 ### Completa: ✅
 - Curso de Formação em Front-end pela Alura.
