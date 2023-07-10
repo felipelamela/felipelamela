@@ -4,13 +4,10 @@ desenvolvimento Front-end e Back-end. Possuo formação em cursos e
 bootcamps, como Alura, Origamid, Oracle, DIO e sempre busco conhecimento
 para me manter atualizado. No Front-end, tenho experiência com JavaScript,
 TypeScript, Next.js, React, Redux, React-Router-Dom e React-Native, no Back-end,
-utilizo Node.js, ExpressJs, NestJs, MongoBD e Postgresql para desenvolver
-aplicações robustas e escaláveis, bem como na utilização do TypeORM para
-facilitar o acesso aos dados. Tenho facilidade em aprendizado e minha
-capacidade de me adaptar rapidamente a novas tecnologias e ferramentas.
-Tenho uma comunicação clara e objetiva, o que facilita a colaboração em
-equipe. Além disso, sou curioso e tenho um forte foco tanto em projetos
-legados, onde posso aprimorar e otimizar sistemas existentes, quanto em novos
+estou me aprofundando em C#, ASP.NET Core, Node.js, ExpressJs, MongoBD, mySQL. 
+Tenho facilidade em aprendizado e minha capacidade de me adaptar rapidamente
+a novas tecnologias e ferramentas. Tenho uma comunicação clara e objetiva, além disso,
+sou curioso e tenho um forte foco tanto em projetos legados, quanto em novos
 projetos, onde posso desenvolver soluções inovadoras.
 
 
