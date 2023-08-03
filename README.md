@@ -1,18 +1,4 @@
 # Hello There 🤙
-Sou estudante de Engenharia da Computação com experiência em
-desenvolvimento Front-end e Back-end. Possuo formação em cursos e
-bootcamps, como Alura, Origamid, Oracle, DIO e sempre busco conhecimento
-para me manter atualizado. No Front-end, tenho experiência com JavaScript,
-TypeScript, Next.js, React, Redux, React-Router-Dom e React-Native, no Back-end,
-estou me aprofundando em C#, ASP.NET Core, Node.js, ExpressJs, MongoBD, mySQL. 
-Tenho facilidade em aprendizado e minha capacidade de me adaptar rapidamente
-a novas tecnologias e ferramentas. Tenho uma comunicação clara e objetiva, além disso,
-sou curioso e tenho um forte foco tanto em projetos legados, quanto em novos
-projetos, onde posso desenvolver soluções inovadoras.
-
-
-<br>
-<br>
 
 # Tech 🖥 
 
