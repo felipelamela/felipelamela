@@ -43,26 +43,15 @@
 - Curso de Formação em Python pela Alura.
 - Curso de Front-end e UX/UI Design pela Origamid.
 - Curso de TypeScript pela Origamid.
+- Formação NestJs pela Alura.
 - Formação React Developer pela OracleONE.
 <br>
 
 ### Cursando: 🧑‍💻
 - Ciências da Computação pela Descomplica (incompleto, dois semestres)
 - Engenharia da Computação pela Descomplica (Cursando).
-- Formação Express pela Alura(Cursando).
-- Formação NestJs pela Alura(Cursando).
-- Formação NextJs pela Alura(Cursando).
-- TypeORM pela Alura(Cursando).
-- WebSocket pela Alura(Cursando).
+- Full Cycle
 <br>
 
-### Aprovações: ✔
-- Aprovação para intensivo da Oracle Cloud Infra .
-- Aprovação para intensivo da Oracle MySQL Server Oracle .
-- Aprovação para intensivo da Oracle Data Science em OCI e Oracle Analytics
-pela Oracle.
-- Aprovação para o BootCamp DIO em Java - SpringBoot.
-- Aprovação para o BootCamp DIO em Swift.
-- Aprovação para o BootCamp DIO em Python.
 
 
