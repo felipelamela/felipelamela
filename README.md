@@ -25,17 +25,15 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
-### Test: ⚙
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-<br>
-<br>
 
 # Formações 🏫
 
+### Certificações: ✅
+- Cisco EndPoints Sec
+- Cisco Intro CyberSec
+
 ### Completa: ✅
 - Curso de Formação em Front-end pela Alura.
-- Curso de Formação em Python pela Alura.
 - Curso de Front-end e UX/UI Design pela Origamid.
 - Curso de TypeScript pela Origamid.
 - Formação NestJs pela Alura.
@@ -43,8 +41,7 @@
 <br>
 
 ### Cursando: 🧑‍💻
-- Ciências da Computação pela Descomplica (incompleto, dois semestres)
-- Engenharia da Computação pela Descomplica (Cursando).
+- Febraban Tech CyberSec Academy
 - Full Cycle
 <br>
 
