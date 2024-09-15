@@ -38,7 +38,7 @@
 - Curso de TypeScript pela Origamid.
 - Formação NestJs pela Alura.
 - Formação React Developer pela OracleONE.
-<br>
+- 
 ### Cursando: 🧑‍💻
 - Febraban Tech CyberSec Academy
 - Full Cycle
