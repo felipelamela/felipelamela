@@ -41,7 +41,7 @@
 - Formação React Developer pela OracleONE.
 - 
 ### Cursando: 🧑‍💻
-- Febraban Tech CyberSec Academy
+- Desec Security
 - Full Cycle
 <br>
 
